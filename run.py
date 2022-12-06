@@ -5,7 +5,7 @@
 import json
   
 # Opening JSON file
-f = open('hello1.json')
+f = open('hello.json')
   
 # returns JSON object as
 # a dictionary
